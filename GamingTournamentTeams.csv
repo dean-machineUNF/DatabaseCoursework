@@ -1,0 +1,144 @@
++---------+-------------------------------+------------+------------+
+| team_id | name                          | founded    | disbanded  |
++---------+-------------------------------+------------+------------+
+|       1 | StarTale                      | 2010-09-15 | NULL       |
+|       2 | Incredible Miracle            | 2010-10-01 | NULL       |
+|       3 | Prime                         | 2010-10-13 | NULL       |
+|       4 | FXOpen e-Sports Korea         | 2011-07-18 | NULL       |
+|       5 | FXOpen e-Sports Europe        | 2012-03-03 | 2013-04-09 |
+|       6 | FXOpen e-Sports North America | 2012-10-28 | 2013-08-07 |
+|       7 | MVP                           | 2011-02-20 | NULL       |
+|       8 | New Star HoSeo                | 2011-02-26 | 2013-07-31 |
+|       9 | CJ Entus                      | 2000-05-09 | NULL       |
+|      10 | KT Rolster                    | 2000-04-04 | NULL       |
+|      11 | Samsung Galaxy                | 2011-04-01 | NULL       |
+|      12 | SK Telecom T1                 | 2000-07-05 | NULL       |
+|      13 | STX SouL                      | 2000-03-21 | NULL       |
+|      14 | Jin Air Green Wings           | 2000-06-19 | NULL       |
+|      15 | Woongjin Stars                | 2000-05-08 | NULL       |
+|      16 | Team SCV Life                 | 2010-10-08 | 2013-01-03 |
+|      17 | AZUBU                         | 2010-02-05 | NULL       |
+|      18 | Team Liquid                   | 2010-03-04 | NULL       |
+|      19 | Millenium                     | 2010-06-13 | NULL       |
+|      20 | Western Wolves                | 2010-03-22 | NULL       |
+|      21 | against All authority         | 2011-01-24 | NULL       |
+|      22 | mousesports                   | 2010-03-24 | NULL       |
+|      23 | SK Gaming                     | 2010-08-07 | NULL       |
+|      24 | ALTERNATE                     | 2010-07-22 | NULL       |
+|      25 | mTw                           | 2010-04-22 | 2013-01-26 |
+|      26 | Team Acer                     | 2011-07-19 | NULL       |
+|      27 | Alien Invasion                | 2010-12-11 | NULL       |
+|      28 | XMG                           | 2010-04-24 | NULL       |
+|      29 | Karont3 e-Sports Club         | 2010-03-26 | 2013-05-30 |
+|      30 | Team Empire                   | 2010-02-04 | NULL       |
+|      31 | RoX.KIS                       | 2010-11-29 | NULL       |
+|      32 | Virtus.pro                    | 2011-11-30 | NULL       |
+|      33 | Dignitas                      | 2008-11-03 | NULL       |
+|      34 | Fnatic                        | 2010-02-28 | NULL       |
+|      35 | Axiom                         | 2010-10-21 | NULL       |
+|      36 | GamersLeague                  | 2010-10-17 | NULL       |
+|      37 | It's Gosu                     | 2011-06-15 | 2013-02-02 |
+|      38 | CompLexity Gaming             | 2010-08-15 | NULL       |
+|      39 | ROOT Gaming                   | 2010-03-22 | NULL       |
+|      40 | Evil Geniuses                 | 2010-03-11 | NULL       |
+|      41 | Invictus Gaming               | 2011-08-02 | NULL       |
+|      43 | Gama Bears                    | 2011-04-23 | NULL       |
+|      44 | Team Grubby                   | 2010-06-29 | NULL       |
+|      45 | ESC ICYBOX                    | 2011-04-09 | NULL       |
+|      46 | LighT eSports                 | 2012-01-03 | 2013-03-08 |
+|      47 | SlayerS                       | 2010-11-30 | 2012-11-03 |
+|      48 | NewRoSoft                     | 2011-03-15 | NULL       |
+|      49 | The Drop Bears                | 2010-10-05 | NULL       |
+|      51 | GAMECOM Nv                    | 2012-02-11 | NULL       |
+|      52 | Dream Team Gaming             | 2011-05-11 | NULL       |
+|      53 | InFerno eSports               | 2010-05-27 | NULL       |
+|      55 | Infinity Seven                | 2010-09-03 | NULL       |
+|      56 | World Elite                   | 2010-10-13 | NULL       |
+|      57 | Clarity Gaming                | 2012-09-27 | NULL       |
+|      59 | Incredible Panic              | 2010-04-15 | NULL       |
+|      60 | eSuba                         | 2010-07-13 | NULL       |
+|      64 | Quantic Gaming                | 2011-06-20 | NULL       |
+|      65 | ZeNEX                         | 2010-10-18 | 2012-07-13 |
+|      67 | Team LDLC.com                 | 2010-08-08 | NULL       |
+|      68 | Meet Your Makers              | 2010-04-27 | 2013-05-03 |
+|      69 | LowLandLions                  | 2010-02-04 | NULL       |
+|      75 | Virus Gaming                  | 2005-02-28 | 2011-11-01 |
+|      76 | Sixjax Gaming                 | 2011-03-31 | 2011-09-16 |
+|      77 | Team ReIGN                    | 2011-06-15 | 2012-02-17 |
+|      78 | eSahara                       | 2011-07-09 | 2012-03-22 |
+|      79 | CheckSix Gaming               | 2003-01-01 | 2012-08-14 |
+|      80 | Cyber Nation                  | 2010-09-08 | 2012-04-08 |
+|      81 | Old Generations               | 2010-05-01 | 2012-05-15 |
+|      83 | Team Legion                   | 2011-10-08 | 2012-10-16 |
+|      84 | Team Vile                     | 2005-01-05 | 2012-05-04 |
+|      85 | eXelon Gaming                 | 2009-09-01 | 2012-08-29 |
+|      86 | GosuGamers                    | 2011-01-01 | 2011-12-02 |
+|      87 | Type Gaming                   | 2011-10-05 | 2012-10-14 |
+|      88 | fOu                           | 2010-10-01 | 2011-07-18 |
+|      89 | team prOperty                 | 2010-07-24 | NULL       |
+|      90 | Pulse Esports                 | 2012-09-28 | 2013-09-15 |
+|      91 | Eclypsia                      | 2012-02-29 | 2012-12-12 |
+|      93 | BLAST                         | 2010-06-20 | 2012-09-13 |
+|      95 | vVv Gaming                    | 2011-04-20 | 2013-01-28 |
+|      96 | Sparte Legion                 | 2012-05-08 | 2012-11-20 |
+|      97 | Alt-Tab.Gaming                | 2011-05-10 | 2012-11-16 |
+|      98 | Keyd Team                     | 2010-02-17 | NULL       |
+|      99 | WinFakt!                      | 2012-09-13 | 2012-11-12 |
+|     100 | Mistral eSport                | 2010-09-12 | 2013-01-14 |
+|     102 | Xeria Gaming                  | 2010-05-09 | 2013-08-19 |
+|     103 | Guild of Imbalance            | 2010-09-06 | NULL       |
+|     104 | Tt Apollos                    | 2011-01-12 | NULL       |
+|     105 | Yoe Ironmen                   | 2011-05-14 | NULL       |
+|     106 | Team Immunity                 | 2010-12-31 | NULL       |
+|     107 | PhoenixTeam                   | 2012-06-01 | 2012-12-27 |
+|     108 | TyLoo                         | 2010-11-19 | 2013-05-07 |
+|     109 | Carnage eSports               | 2011-03-14 | 2012-11-18 |
+|     110 | Mindfreak eSports             | 2012-04-11 | 2012-11-06 |
+|     111 | Cascade                       | 2010-10-01 | NULL       |
+|     112 | apeX eSports                  | 2010-05-19 | 2012-11-18 |
+|     113 | WeMade FOX                    | 2010-05-07 | 2011-08-31 |
+|     114 | Eternity Gaming               | 2012-05-07 | NULL       |
+|     115 | Team Replika                  | 2010-08-05 | NULL       |
+|     116 | Catastrophic Cruel Memory     | 2011-05-23 | 2011-08-02 |
+|     117 | NOM Gaming                    | 2011-06-01 | 2012-06-10 |
+|     118 | eSrael                        | 2011-03-20 | NULL       |
+|     120 | Revolution Sports             | 2003-01-01 | 2011-03-24 |
+|     121 | Team Clash                    | 2010-07-20 | 2012-06-03 |
+|     123 | Team eXtensive                | 2012-02-09 | 2013-02-09 |
+|     124 | Air Force ACE                 | 2012-05-17 | 2013-07-23 |
+|     125 | 4Kings                        | 2011-09-13 | NULL       |
+|     127 | Aprender                      | 2010-12-23 | NULL       |
+|     128 | nexmultigaming                | 2013-01-01 | NULL       |
+|     129 | Soviet Gaming                 | 2010-11-11 | NULL       |
+|     130 | Anexis eSports                | 2013-01-29 | NULL       |
+|     131 | FXOpen e-Sports               | 2010-12-11 | 2012-10-28 |
+|     132 | Awesome Gaming                | 2010-01-22 | 2013-07-10 |
+|     133 | Imaginary Gaming              | 2010-04-19 | NULL       |
+|     134 | Roar Gaming                   | 2010-06-27 | NULL       |
+|     135 | mYinsanity                    | 2010-11-17 | NULL       |
+|     136 | 3D Clan                       | 2010-03-09 | NULL       |
+|     137 | isurus Gaming                 | 2011-06-21 | NULL       |
+|     138 | Frenetic Array                | 2012-09-10 | NULL       |
+|     140 | Copenhagen Wolves             | 2012-01-19 | NULL       |
+|     142 | Eternal E-Sports              | 2012-04-25 | NULL       |
+|     145 | Denial eSports                | 2012-03-31 | NULL       |
+|     146 | Natus Vincere                 | 2011-04-11 | NULL       |
+|     147 | The Alliance                  | 2013-04-12 | NULL       |
+|     148 | ENCE eSports                  | 2013-04-13 | NULL       |
+|     149 | Flash eSports                 | 2011-01-12 | NULL       |
+|     150 | Exile 5                       | 2010-06-28 | NULL       |
+|     151 | Vici Gaming                   | 2013-05-07 | NULL       |
+|     152 | Downfall Esports              | 2013-04-03 | NULL       |
+|     153 | oGaming                       | 2013-05-23 | NULL       |
+|     155 | Silicon Sports                | 2013-04-10 | NULL       |
+|     156 | Vega Squadron                 | 2012-06-10 | NULL       |
+|     157 | Sgeht                         | 2010-09-21 | NULL       |
+|     158 | sMiTeam                       | 2013-07-14 | NULL       |
+|     159 | Team Missing in Action        | 2011-01-01 | NULL       |
+|     160 | Wild 4 Sports                 | 2013-04-13 | 2013-08-18 |
+|     162 | Long Chen                     | 2013-08-05 | NULL       |
+|     163 | Planetkey Dynamics            | 2013-08-18 | NULL       |
+|     165 | Core Gaming                   | 2013-08-03 | NULL       |
+|     166 | AT Gaming                     | 2010-10-01 | NULL       |
++---------+-------------------------------+------------+------------+
+
